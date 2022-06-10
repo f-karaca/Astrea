@@ -1,7 +1,13 @@
 # Astrea
 Platformer Game
 
-Download Game: https://drive.google.com/file/d/1OvytCx88w6eh9pl1wypzdBk-bCacy25X/view?usp=sharing
+Bu proje Oyun ve Uygulama Akademisi mezuniyet bootcamp'i için geliştirilmiştir.
+
+
+
+
+
+  Download Game: https://drive.google.com/file/d/1OvytCx88w6eh9pl1wypzdBk-bCacy25X/view?usp=sharing
 
 Reference:
 
